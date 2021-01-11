@@ -49,42 +49,7 @@
             <!--fim dos slides-->
 
             <!--barra de navegação-->
-            <nav class="navbar navbar-expand-lg navbar-dark bg-warning">
-                <a class="navbar-brand" href="#"><spam class="vic-home"></spam></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Inicio <span class="sr-only">(página atual)</span></a></li> 
-                        <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre <span class="sr-only">(página atual)</span></a></li> 
-                        <li class="nav-item active"><a class="nav-link" href="?pg=servicos">Serviços <span class="sr-only">(página atual)</span></a></li> 
-                        <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Produtos <span class="sr-only">(página atual)</span></a></li> 
-                        <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contatos <span class="sr-only">(página atual)</span></a></li> 
-
-                    </ul>
-                    <form class="form-inline my-2 my-lg-0">
-                        <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-                        <button class="btn btn-outline-success mr-sm-2 my-2 my-sm-0" type="submit">Pesquisar</button>
-                        <!-- Example split danger button -->
-
-                    </form>
-                    <ul class="navbar-nav">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Área Administrativa</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="?pg=login">Login</a>
-                                <a class="dropdown-item" href="?pg=login2">Login2</a>
-                                <a class="dropdown-item" href="?pg=login3">Login3</a>
-
-                            </div>
-                        </li>
-                    </ul>
-
-                </div>
-            </nav> 
-            <!--fim da barra de navegação-->
+            
 
         </header>
         <!--fim do header-->
